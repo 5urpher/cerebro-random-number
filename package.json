@@ -1,6 +1,15 @@
 {
   "name": "cerebro-random-number",
+  "description": "Cerebro plugin for generating a random number",
   "version": "0.1.0",
+  "license": "MIT",
+  "author": {
+    "name": "5urpher",
+    "email": "surpher@live.com"
+  },
+  "repository": {
+    "url": "https://github.com/5urpher/cerebro-random-number"
+  },
   "dependencies": {
     "cerebro-tools": "^0.1.8",
     "cerebro-ui": "^0.0.16"

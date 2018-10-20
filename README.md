@@ -18,6 +18,8 @@
 
  The resulting number is copied to the clipboard.
 
+ ![](screenshot.png)
+
 
 ## Related
 
